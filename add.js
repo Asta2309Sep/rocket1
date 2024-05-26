@@ -1,1 +1,4 @@
-console("Helle World")::::
+console("Helle World"):
+a + b + c = 12
+a = 2
+b = *
